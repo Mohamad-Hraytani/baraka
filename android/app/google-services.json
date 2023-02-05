@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503515960794",
+    "project_id": "kitchen-management-86be9",
+    "storage_bucket": "kitchen-management-86be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503515960794:android:a143ca20efc513f3041ce3",
+        "android_client_info": {
+          "package_name": "com.trendytech.kpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503515960794-h49rd7ueq2m8cjao2u1c37ov64hilma1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApd8Q1kuj8HjmR8r6U5SLn2AJgkgv-IYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503515960794-h49rd7ueq2m8cjao2u1c37ov64hilma1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
