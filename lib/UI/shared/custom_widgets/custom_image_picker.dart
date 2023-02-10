@@ -194,7 +194,7 @@ class CustomImagePicker extends StatelessWidget {
                                                                     .length) ==
                                                             'mp4'
                                                         ? Container(
-                                                            height: 400,
+                                                            height: 200,
                                                             width: 400,
                                                             child: Chewie(
                                                               controller:
